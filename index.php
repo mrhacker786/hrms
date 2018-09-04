@@ -17,7 +17,7 @@ include 'includes/sessionstatusindex.php';
 <body>
     <div class="header">
         <div class="logo">
-            <i class="icon-layers icon logo-icon"></i> HRMS
+            <i class="icon-layers icon logo-icon"></i> Git Hub HRMS
         </div>
     </div>
     <div class="content">
